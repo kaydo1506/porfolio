@@ -1,0 +1,17 @@
+.experience-container {
+    background: rgb(230, 219, 219);
+    h2 {
+        margin-bottom: 0;
+    }
+}
+.col {
+    display: flex;
+
+    &1 {
+        margin-bottom: 10px;
+        align-self: center;
+    }
+    &2 {
+        line-height: 1.8;
+    }
+}

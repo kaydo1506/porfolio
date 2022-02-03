@@ -1,0 +1,15 @@
+.education-container {
+    background: linear-gradient(rgba(233, 196, 196, 0.705), rgba(138, 128, 128, 0.829)),
+        url('/imgs/edu1.jpeg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.edu {
+    line-height: 1.8;
+    h2 {
+        margin-bottom: 0;
+    }
+  
+}

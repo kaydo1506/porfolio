@@ -1,0 +1,28 @@
+.skillsQualities-container {
+    background: rgb(230, 219, 219);
+}
+.wrap {
+    display: flex;
+    justify-content: space-between;
+}
+.skills,
+.qualities {
+    width: 350px;
+    border: 4px solid rgb(53, 36, 36);
+    padding: 20px;
+    // z-index: 10;
+    transition: all 0.2s;
+    border-radius: 10px;
+    box-shadow: 10px 15px 10px rgba(black, 0.4);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+
+    &:hover {
+        -webkit-transform: scale(1.05) translateY(-0.5rem);
+        transform: scale(1.05) translateY(-0.5rem);
+        box-shadow: 0 2.5rem 4rem rgba(black, 0.5);
+        z-index: 20;
+    }
+}
