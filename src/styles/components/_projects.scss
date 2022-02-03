@@ -6,8 +6,16 @@
     }
 }
 .flex1 {
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 40px;
+    justify-content: center;
+    @media only screen and (max-width: 900px) {
+        grid-template-columns: auto auto;
+    }
+    @media only screen and (max-width: 500px) {
+        grid-template-columns: auto;
+    }
 }
 .flex2 {
     display: flex;
@@ -20,12 +28,18 @@
     width: 240px;
     outline: 4px solid rgba(53, 41, 36, 0.979);
     outline-offset: 10px;
+    @media only screen and (max-width: 900px) {
+        width: 200px;
+    }
 
     &__picture {
         width: 240px;
         background-position: center;
         height: 310px;
         background-size: cover;
+        @media only screen and (max-width: 900px) {
+            width: 200px;
+        }
         &--1 {
             background-image: url('/imgs/live-chat.png');
         }

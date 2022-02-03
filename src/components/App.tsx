@@ -16,11 +16,9 @@ function App() {
                         <h2>Front-end Developer</h2>
                         <p>
                             Front-End Developer with a track record of maintaining and optimising of websites and user
-                            interfaces. <br />
-                            With a passion for both personal growth and for software development, I dedicate hours each
-                            day learning new technologies while sharpening existing skills. <br />
-                            Ready to apply my passion for coding to a talented engineering team to develop quality
-                            solutions.
+                            interfaces. With a passion for both personal growth and for software development, I dedicate
+                            hours each day learning new technologies while sharpening existing skills. Ready to apply my
+                            passion for coding to a talented engineering team to develop quality solutions.
                         </p>
                     </div>
                 </div>

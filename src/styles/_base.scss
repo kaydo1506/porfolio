@@ -4,6 +4,8 @@ body {
     font-weight: 100;
     line-height: 1.2;
     color: rgb(44, 28, 28);
+
+    overflow-x: hidden;
 }
 
 .container {
@@ -22,4 +24,7 @@ h4 {
 h1,
 h2 {
     font-size: 35px;
+    @media only screen and (max-width: 900px) {
+        font-size: 24px;
+    }
 }
