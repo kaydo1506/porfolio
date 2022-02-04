@@ -9,8 +9,14 @@
         font-size: 16px;
         align-self: center;
         color: rgb(230, 200, 200);
-        line-height: 1.8;
+        h1,
+        h2 {
+            margin-bottom: 0;
+            text-transform: uppercase;
+        }
+
         p {
+            line-height: 1.8;
             @media only screen and (max-width: 900px) {
                 text-align: center;
             }

@@ -5,7 +5,7 @@ const Education = () => {
         <div className='education-container'>
             <div className='container edu'>
                 <div className='edu1'>
-                    <h2>Education</h2>
+                    <h1>Education</h1>
                     <ul>
                         <li>B.Eng. Chemical Engineering: Landmark University, Kwara State, Nigeria. (2011-2016)</li>
                     </ul>

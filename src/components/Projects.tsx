@@ -4,7 +4,7 @@ import React from 'react';
 const Projects = () => {
     return (
         <div className='project-container'>
-            <h2>A few of my standout projects</h2>
+            <h1>A few of my standout projects</h1>
             <div className='container flex1'>
                 <div className='card'>
                     <div className='card__side card__side--front'>
