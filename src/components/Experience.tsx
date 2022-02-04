@@ -9,7 +9,6 @@ const Experience = () => {
                     <div className='col1'>
                         <h3>Front-End Developer</h3>
                         <h3>INDEPENDENT / FREELANCE</h3>
-                        <h3>June 2019 - Date</h3>
                     </div>
 
                     <ul className='col2'>

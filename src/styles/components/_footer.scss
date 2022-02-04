@@ -1,6 +1,6 @@
 .socials {
     margin: auto;
-    max-width: 500px;
+    max-width: 300px;
     padding: 30px 0;
     color: rgb(230, 200, 200);
     text-align: center;
@@ -8,7 +8,12 @@
     &-container {
         background: rgb(53, 36, 36);
     }
-    &--link a {
-        color: rgb(230, 200, 200);
+
+    &--link {
+        a {
+            color: rgb(230, 200, 200);
+        }
+        display: flex;
+        justify-content: space-between;
     }
 }

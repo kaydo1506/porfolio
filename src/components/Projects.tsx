@@ -20,7 +20,6 @@ const Projects = () => {
                                 <li>Redux state manager</li>
                                 <li>Firebase database</li>
                                 <li>SASS </li>
-                                <li>...</li>
                             </ul>
                         </div>
                         <div className='card__cta'>
@@ -84,7 +83,6 @@ const Projects = () => {
                                 <li> React language/library</li>
                                 <li>Material UI</li>
                                 <li> Commerce.Js</li>
-                                <li>...</li>
                             </ul>
                         </div>
                         <div className='card__cta'>
@@ -111,7 +109,6 @@ const Projects = () => {
                                 Technologies used__
                                 <li> React language/library</li>
                                 <li>SASS </li>
-                                <li>...</li>
                             </ul>
                         </div>
                         <div className='card__cta'>
@@ -140,7 +137,6 @@ const Projects = () => {
                                 <li>CSS clip-path</li>
                                 <li>CSS transform property</li>
                                 <li>CSS cubic bezier</li>
-                                <li>...</li>
                             </ul>
                         </div>
                         <div className='card__cta'>
@@ -166,7 +162,6 @@ const Projects = () => {
                             <ul>
                                 Technologies used__
                                 <li>CSS Grid</li>
-                                <li>...</li>
                             </ul>
                         </div>
                         <div className='card__cta'>

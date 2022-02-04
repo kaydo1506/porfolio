@@ -10,15 +10,15 @@ const Footer = () => {
                     <a
                         href='https://www.linkedin.com/in/ify-okedo-846799197/'
                         target='_blank'
-                        className='btn btn--white'
+                        className='btn'
                         rel='noreferrer'
                     >
                         <LinkedIn />
                     </a>
-                    <a href='https://github.com/kaydo1506' target='_blank' className='btn btn--white' rel='noreferrer'>
+                    <a href='https://github.com/kaydo1506' target='_blank' className='btn' rel='noreferrer'>
                         <GitHub />
                     </a>
-                    <a href='https://twitter.com/IfyyyyO' target='_blank' className='btn btn--white' rel='noreferrer'>
+                    <a href='https://twitter.com/IfyyyyO' target='_blank' className='btn' rel='noreferrer'>
                         <Twitter />
                     </a>
                 </div>
