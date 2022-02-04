@@ -13,7 +13,7 @@ const Contact = () => {
                         data-netlify='true'
                         name='contact'
                         method='POST'
-                        action='/src/components/success'
+                        action='/src/components/Success'
                         className='contact-form'
                         data-netlify-recaptcha='true'
                     >
