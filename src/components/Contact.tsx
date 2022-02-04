@@ -5,7 +5,7 @@ const Contact = () => {
         <div className='socials-container'>
             <div className='form-box'>
                 <div className='row'>
-                    <h1>Happy to hear from you</h1>
+                    <h1>Happy to hear from you!</h1>
                 </div>
 
                 <div className='row'>
