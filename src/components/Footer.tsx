@@ -7,13 +7,18 @@ const Footer = () => {
             <div className=' socials'>
                 <h2>Let's Keep In Touch</h2>
                 <div className='socials--link'>
-                    <a href='/' target='_blank' className='btn btn--white' rel='noreferrer'>
+                    <a
+                        href='https://www.linkedin.com/in/ify-okedo-846799197/'
+                        target='_blank'
+                        className='btn btn--white'
+                        rel='noreferrer'
+                    >
                         <LinkedIn />
                     </a>
-                    <a href='/'>
+                    <a href='https://github.com/kaydo1506' target='_blank' className='btn btn--white' rel='noreferrer'>
                         <GitHub />
                     </a>
-                    <a href='/'>
+                    <a href='https://twitter.com/IfyyyyO' target='_blank' className='btn btn--white' rel='noreferrer'>
                         <Twitter />
                     </a>
                 </div>
