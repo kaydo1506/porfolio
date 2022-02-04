@@ -3,9 +3,10 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import App from '../components/App';
 import Experience from '../components/Experience';
-import Contact from '../components/Contact';
+import Footer from '../components/Footer';
 import Education from '../components/Education';
 import Projects from '../components/Projects';
+import Contact from '../components/Contact';
 
 const AppRouter = () => {
     return (
@@ -19,6 +20,7 @@ const AppRouter = () => {
                 <Route path='/Education' element={<Education />} />
                 <Route path='/Projects' element={<Projects />} />
             </Routes>
+            <Footer />
         </BrowserRouter>
     );
 };

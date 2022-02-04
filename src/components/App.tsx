@@ -1,7 +1,7 @@
 import React from 'react';
 import Experience from './Experience';
 import Education from './Education';
-import Contact from './Contact';
+
 import Projects from './Projects';
 import SkillsQualities from './SkillsQualities';
 
@@ -28,7 +28,6 @@ function App() {
             <Education />
             <SkillsQualities />
             <Projects />
-            <Contact />
         </div>
     );
 }

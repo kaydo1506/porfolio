@@ -1,21 +1,50 @@
 import React from 'react';
-import { GitHub, Twitter, LinkedIn } from '@mui/icons-material';
 
 const Contact = () => {
     return (
         <div className='socials-container'>
-            <div className=' socials'>
-                <h2>Let's Keep In Touch</h2>
-                <div className='socials--link'>
-                    <a href='/' target='_blank' className='btn btn--white' rel='noreferrer'>
-                        <LinkedIn />
-                    </a>
-                    <a href='/'>
-                        <GitHub />
-                    </a>
-                    <a href='/'>
-                        <Twitter />
-                    </a>
+            <div className='form-box'>
+                <div className='row'>
+                    <h2>Happy to hear from you</h2>
+                </div>
+
+                <div className='row'>
+                    <form method='post' action='' className='contact-form'>
+                        <div>
+                            <div>
+                                <label htmlFor='name'>Name</label>
+                            </div>
+                            <div>
+                                <input type='text' name='name' id='name' placeholder='Your name' required />
+                            </div>
+                        </div>
+                        <div>
+                            <div>
+                                <label htmlFor='email'>Email</label>
+                            </div>
+                            <div>
+                                <input type='email' name='email' id='email' placeholder='Your email' required />
+                            </div>
+                        </div>
+
+                        <div>
+                            <div>
+                                <label>Drop me a line</label>
+                            </div>
+                            <div>
+                                <textarea name='message' placeholder='Your message'></textarea>
+                            </div>
+                        </div>
+                        <div>
+                            <div>
+                                <label>&nbsp;</label>
+                            </div>
+                            <div>
+                                <input className='btn' type='submit' value='Send it!' />
+                            </div>
+                            
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>

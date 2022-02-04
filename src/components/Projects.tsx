@@ -155,65 +155,33 @@ const Projects = () => {
                         </div>
                     </div>
                 </div>
+                <div className='card'>
+                    <div className='card__side card__side--front'>
+                        <div className='card__picture card__picture--6'>&nbsp;</div>
+                    </div>
+
+                    <div className='card__side card__side--back '>
+                        <h4 className='card__heading'>Real Estate App</h4>
+                        <div className='card__details'>
+                            <ul>
+                                Technologies used__
+                                <li>CSS Grid</li>
+                                <li>...</li>
+                            </ul>
+                        </div>
+                        <div className='card__cta'>
+                            <a
+                                href='https://nexter-rachael.netlify.app/'
+                                target='_blank'
+                                className='btn btn--white'
+                                rel='noreferrer'
+                            >
+                                View Project
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
-            {/* <div className='container flex2'>
-                <div className='card'>
-                    <div className='card__side card__side--front'>
-                        <div className='card__picture card__picture--4'></div>
-                    </div>
-
-                    <div className='card__side card__side--back '>
-                        <h4 className='card__heading'>To-Do App</h4>
-                        <div className='card__details'>
-                            <ul>
-                                Technologies used__
-                                <li> React language/library</li>
-                                <li>SASS </li>
-                                <li>...</li>
-                            </ul>
-                        </div>
-                        <div className='card__cta'>
-                            <a
-                                href='https://todo-bot-app.herokuapp.com/'
-                                target='_blank'
-                                className='btn btn--white'
-                                rel='noreferrer'
-                            >
-                                View Project
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div className='card'>
-                    <div className='card__side card__side--front'>
-                        <div className='card__picture card__picture--5'>&nbsp;</div>
-                    </div>
-
-                    <div className='card__side card__side--back '>
-                        <h4 className='card__heading'>Tour App</h4>
-                        <div className='card__details'>
-                            <ul>
-                                Technologies used__
-                                <li>CSS keyframes animaton</li>
-                                <li>CSS clip-path</li>
-                                <li>CSS transform property</li>
-                                <li>CSS cubic bezier</li>
-                                <li>...</li>
-                            </ul>
-                        </div>
-                        <div className='card__cta'>
-                            <a
-                                href='https://naturesweb.netlify.app/'
-                                target='_blank'
-                                className='btn btn--white'
-                                rel='noreferrer'
-                            >
-                                View Project
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div> */}
         </div>
     );
 };
