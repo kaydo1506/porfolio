@@ -9,7 +9,14 @@ const Contact = () => {
                 </div>
 
                 <div className='row'>
-                    <form method='post' action='' className='contact-form'>
+                    <form
+                        data-netlify='true'
+                        name='contact'
+                        method='POST'
+                        action='/src/components/success'
+                        className='contact-form'
+                        data-netlify-recaptcha='true'
+                    >
                         <div>
                             <div>
                                 <label htmlFor='name'>Name</label>
