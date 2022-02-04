@@ -27,6 +27,16 @@ h2 {
         font-size: 24px;
     }
 }
-// .nav--margin {
-//     margin-bottom: 30px;
-// }
+p,
+li {
+    text-align: justify;
+}
+.copyright {
+    background: rgb(230, 219, 219);
+    padding: 20px;
+    p {
+        margin: 0;
+        text-align: center;
+    
+    }
+}

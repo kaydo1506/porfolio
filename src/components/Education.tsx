@@ -7,7 +7,7 @@ const Education = () => {
                 <div className='edu1'>
                     <h1>Education</h1>
                     <ul>
-                        <li>B.Eng. Chemical Engineering (2011-2016)</li>
+                        <li>Bachelor of Engineering in Chemical Engineering (2011-2016 // Nigeria)</li>
                     </ul>
                 </div>
             </div>

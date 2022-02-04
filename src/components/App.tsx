@@ -17,6 +17,9 @@ function App() {
             <Education />
 
             <Projects />
+            <div className='copyright'>
+                <p>Ify Okedo &#169; 2022</p>
+            </div>
         </div>
     );
 }
