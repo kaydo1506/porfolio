@@ -4,15 +4,17 @@
     z-index: 99999;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     background-color: whitesmoke;
+    margin: 0;
+    padding: 20px 0;
 
     // padding: 10px;
-    & a {
+    a {
         text-decoration: none;
-        padding: 20px 20px;
         font-weight: 400;
         text-transform: uppercase;
         color: coral;
+        cursor: pointer;
     }
 }

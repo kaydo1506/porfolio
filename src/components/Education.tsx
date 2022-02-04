@@ -7,10 +7,9 @@ const Education = () => {
                 <div className='edu1'>
                     <h1>Education</h1>
                     <ul>
-                        <li>B.Eng. Chemical Engineering: Landmark University, Kwara State, Nigeria. (2011-2016)</li>
+                        <li>B.Eng. Chemical Engineering (2011-2016)</li>
                     </ul>
                 </div>
-            
             </div>
         </div>
     );
