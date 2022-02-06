@@ -43,6 +43,9 @@
         -moz-border-radius: 50%;
         -ms-border-radius: 50%;
         -o-border-radius: 50%;
+        @media only screen and (max-width: 900px) {
+            margin-right: 0;
+        }
     }
     @media only screen and (max-width: 900px) {
         flex-direction: column;
