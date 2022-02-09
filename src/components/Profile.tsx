@@ -25,7 +25,7 @@ const Profile = () => {
                             </a>
                         </div>
                         <p>
-                            Front-End Developer with a track record of maintaining and optimising of websites and user
+                            Front-End Developer with a track record of maintaining and optimising websites and user
                             interfaces. With a passion for both personal growth and for software development, I dedicate
                             hours each day learning new technologies while sharpening existing skills. Ready to apply my
                             passion for coding to a talented engineering team to develop quality solutions.
