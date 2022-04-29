@@ -16,7 +16,8 @@ const Experience = () => {
                             Delivered high-quality and responsive code into
                             production using modern libraries and frameworks.
                         </li>
-                        <li>Developed features to enhance user experience</li>
+                        <li>Rest API design, development and integration.</li>
+                        <li>Database design and maintenance.</li>
                         <li>
                             Designed and implemented web applications along with
                             3rd-party software integrations as a web team

@@ -47,14 +47,16 @@ const Profile = () => {
                             </a>
                         </div>
                         <p>
-                            Front-End Developer with a track record of
-                            maintaining and optimising websites and user
-                            interfaces, and managing databases. With a passion
-                            for both personal growth and for software
-                            development, I dedicate hours each day learning new
-                            technologies while sharpening existing skills. Ready
-                            to apply my passion for coding to a talented
-                            engineering team to develop quality solutions.
+                            Full-stack developer specialized in React and
+                            NodeJS.<br/> I have a track record of designing and
+                            developing responsive and engaging web applications,
+                            API integration and development and database design.
+                            With a passion for both personal growth and for
+                            software development, I dedicate hours each day
+                            learning new technologies while sharpening existing
+                            skills. Ready to apply my passion for coding to a
+                            talented engineering team to develop quality
+                            solutions.
                         </p>
                     </div>
                 </div>
