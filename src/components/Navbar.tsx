@@ -1,11 +1,17 @@
-import React from 'react';
 import { Link } from 'react-scroll';
+
 // import { Link } from 'react-router-dom';
 
 const Navbar = () => (
     <>
         <div className='nav'>
-            <Link to='profile' activeClass='active' spy={true} smooth={true} offset={-35}>
+            <Link
+                to='profile'
+                activeClass='active'
+                spy={true}
+                smooth={true}
+                offset={-35}
+            >
                 Profile
             </Link>
 

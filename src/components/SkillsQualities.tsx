@@ -7,13 +7,16 @@ const SkillsQualities = () => {
                 <div className='skills'>
                     <h1 className='skills-text'>Skills</h1>
                     <p className='skills-list'>
-                        HTML, CSS, Bootstrap, Javascript, React (w/Hooks and Redux), Typescript, GIT, Firebase, Heroku,
-                        Netlify, Adobe XD.
+                        React(w/Hooks and Redux), Javascript, Typescript, HTML,
+                        CSS, Node.js, Git, MongoDB, MySQL,
                     </p>
                 </div>
                 <div className='qualities'>
                     <h1 className='qualities-text'>Qualities</h1>
-                    <p className='qualities-list'>Self-motivated, Creative, Adaptable, Having an eye for detail.</p>
+                    <p className='qualities-list'>
+                        Self-motivated, Creative, Adaptable, Having an eye for
+                        detail.
+                    </p>
                 </div>
             </div>
         </div>
