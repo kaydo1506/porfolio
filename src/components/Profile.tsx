@@ -48,15 +48,17 @@ const Profile = () => {
                         </div>
                         <p>
                             Full-stack developer specialized in React and
-                            NodeJS.<br/> I have a track record of designing and
+                            NodeJS.
+                            <br /> I have a track record of designing and
                             developing responsive and engaging web applications,
                             API integration and development and database design.
                             With a passion for both personal growth and for
                             software development, I dedicate hours each day
                             learning new technologies while sharpening existing
-                            skills. Ready to apply my passion for coding to a
-                            talented engineering team to develop quality
-                            solutions.
+                            skills. <br /> I consider myself creative and
+                            hardworking, as my stats show. If you like my
+                            profile, drop me a message and we'll discuss
+                            how I can be useful to your project.
                         </p>
                     </div>
                 </div>

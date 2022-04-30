@@ -8,7 +8,8 @@ const SkillsQualities = () => {
                     <h1 className='skills-text'>Skills</h1>
                     <p className='skills-list'>
                         React (w/Hooks and Redux), Javascript, Typescript, HTML,
-                        CSS, Node.js, Git, ExpressJS, MongoDB, MySQL,
+                        CSS, Node.js, Git, ExpressJS, MongoDB, MySQL, Heroku,
+                        and more.
                     </p>
                 </div>
                 <div className='qualities'>
