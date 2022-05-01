@@ -36,12 +36,15 @@ const Projects = () => {
                 </div>
                 <div className='card'>
                     <div className='card__side card__side--front'>
-                        <div className='card__picture card__picture--2'>&nbsp;</div>
+                        <div className='card__picture card__picture--2'>
+                            &nbsp;
+                        </div>
                     </div>
 
                     <div className='card__side card__side--back card__side--back-2'>
                         <h4 className='card__heading'>
-                            Budget App <br /> Implementing all 4 main CRUD operations.
+                            Budget App <br /> Implementing all 4 main CRUD
+                            operations.
                         </h4>
                         <div className='card__details'>
                             <ul>
@@ -69,7 +72,9 @@ const Projects = () => {
                 </div>
                 <div className='card'>
                     <div className='card__side card__side--front'>
-                        <div className='card__picture card__picture--3'>&nbsp;</div>
+                        <div className='card__picture card__picture--3'>
+                            &nbsp;
+                        </div>
                     </div>
 
                     <div className='card__side card__side--back card__side--back-3'>
@@ -125,7 +130,9 @@ const Projects = () => {
                 </div>
                 <div className='card'>
                     <div className='card__side card__side--front'>
-                        <div className='card__picture card__picture--5'>&nbsp;</div>
+                        <div className='card__picture card__picture--5'>
+                            &nbsp;
+                        </div>
                     </div>
 
                     <div className='card__side card__side--back '>
@@ -153,7 +160,9 @@ const Projects = () => {
                 </div>
                 <div className='card'>
                     <div className='card__side card__side--front'>
-                        <div className='card__picture card__picture--6'>&nbsp;</div>
+                        <div className='card__picture card__picture--6'>
+                            &nbsp;
+                        </div>
                     </div>
 
                     <div className='card__side card__side--back '>
@@ -166,7 +175,7 @@ const Projects = () => {
                         </div>
                         <div className='card__cta'>
                             <a
-                                href='https://nexter-rachael.netlify.app/'
+                                href='https://nexter-grids.netlify.app/'
                                 target='_blank'
                                 className='btn btn--white'
                                 rel='noreferrer'
