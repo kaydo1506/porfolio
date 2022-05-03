@@ -166,16 +166,23 @@ const Projects = () => {
                     </div>
 
                     <div className='card__side card__side--back '>
-                        <h4 className='card__heading'>Real Estate App</h4>
+                        <h4 className='card__heading'>
+                            StackNetwork <br /> A social network for developers
+                        </h4>
+
                         <div className='card__details'>
                             <ul>
                                 Technologies used__
-                                <li>CSS Grid</li>
+                                <li>ReactJS</li>
+                                <li>NodeJS</li>
+                                <li>ExpressJS</li>
+                                <li>MongoDB</li>
+                                <li>Heroku</li>
                             </ul>
                         </div>
                         <div className='card__cta'>
                             <a
-                                href='https://nexter-grids.netlify.app/'
+                                href='https://stack-net.herokuapp.com/'
                                 target='_blank'
                                 className='btn btn--white'
                                 rel='noreferrer'
